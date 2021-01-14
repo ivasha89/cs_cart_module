@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>order_history</id>
+    <name>История изменения статусов заказов</name>
+    <description>Создаём модуль для CS-Cart и Multi-Vendor</description>
+
+    <status>active</status>
+
+    <default_language>ru</default_language>
+    <language_variables>
+        <item lang="en" id="view_order_history">Preview orders status change</item>
+        <item lang="ru" id="view_order_history">Просмотр изменения статусов заказов</item>
+        <item lang="en" id="order_history">Order status journal</item>
+        <item lang="ru" id="order_history">История изменения статусов заказов</item>
+        <item lang="en" id="orders_history">Order status journal</item>
+        <item lang="ru" id="orders_history">История изменения статусов заказов</item>
+        <item lang="en" id="old_status">Previous status</item>
+        <item lang="ru" id="old_status">Предыдущий статус</item>
+        <item lang="en" id="new_status">Real status</item>
+        <item lang="ru" id="new_status">Действующий статус</item>
+    </language_variables>
+</addon>
